@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HyeonSoo&fontSize=70" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20🥳&fontSize=50&animation=twinkling)
 <h2 align="center"> Hi👋, I'm HyeonSoo!🤗</h2>
 <h3 align="center">I am junior Flutter developer</h3>
 <h3 align="center">📺 Front Tech Stack 📺</h3>
