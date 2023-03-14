@@ -9,6 +9,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android Studio-00599C?style=flat&logo=AndroidStudio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/AdobeXD-ff61f6?style=flat&logo=Adobe-XD&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/></a
 </p>
 <h3 align="center"> 🌈 My SMS 🌈 </h3>
 <p align="center">
