@@ -31,7 +31,7 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/hyeonwater">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonwater&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonwater&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&" />
   </a>
 </p>
 
