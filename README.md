@@ -6,7 +6,8 @@
 
 <h3 align="center">📺 Front Tech Stack 📺</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-ffb13b?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Flutter-ffb13b?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Dart-ffb13b?style=flat&logo=Dart&logoColor=white"/></a>&nbsp 
 </p>
 
 
@@ -31,7 +32,7 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/hyeonwater">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonwater&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonwater&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby" />
   </a>
 </p>
 
